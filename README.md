@@ -5,4 +5,4 @@ There are two notebooks in this repo:
   1) EASE.ipynb which is a numpy implementation of a closed-formed version of EASE that proposed in the original paper: https://arxiv.org/abs/1905.03375
   2) NeuEASE.ipynb which is a PyTorch implementation of the neural network version of EASE.
 
-Note: for preprocessing steps look at my other repo: https://github.com/AhmadRK94/RecSys-CF
+Note: The dataset is movielens 1m and it contain both positive and negative feedbacks. for preprocessing steps look at my other repo: https://github.com/AhmadRK94/RecSys-CF
