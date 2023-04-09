@@ -1,6 +1,8 @@
 # NeuEASE
-Pytorch implementation of EASE method for collaborative filtering
+Pytorch implementation of the EASE method for collaborative filtering
 
-There are two notebook in this repo:
-  1) EASE.ipynb which is numpy implementation of closed formed version of EASE that proposed in the original paper https://arxiv.org/abs/1905.03375
-  2) NeuEASE.ipynb which is pytorch implementation of neural network version of EASE
+There are two notebooks in this repo:
+  1) EASE.ipynb which is a numpy implementation of a closed-formed version of EASE that proposed in the original paper: https://arxiv.org/abs/1905.03375
+  2) NeuEASE.ipynb which is a PyTorch implementation of the neural network version of EASE.
+
+Note: for preprocessing steps look at my other repo: https://github.com/AhmadRK94/RecSys-CF
